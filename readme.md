@@ -25,7 +25,7 @@ By analyzing historical launch data and applying **machine learning classificati
 ### 2️⃣ Data Wrangling & EDA
 - **Cleaned & filtered** data (handled missing values, outliers)
 - **One-Hot Encoding** for categorical features (e.g., launch site, orbit type)
-- **Exploratory Data Analysis (EDA)** with visualizations (Matplotlib, Seaborn)
+- **Exploratory Data Analysis (EDA)** with visualizations (Matplotlib, Plotly, Folium)
 
 ### 3️⃣ Predictive Modeling
 Trained and evaluated **four classification models**:
